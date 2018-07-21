@@ -171,6 +171,9 @@ h5.university, h5.study_period {
 }
 
 @media(max-width: 900px) {
+    body {
+        margin: 0;
+    }
     .wrapper {
         grid-template-columns: 1fr;
         grid-template-areas: 
